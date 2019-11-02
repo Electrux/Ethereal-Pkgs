@@ -1,7 +1,7 @@
 version = '1.63';
 url = '<url>';
-file = 'curl.' + version + '.tar.gz';
-install = [
+src = 'curl.' + version + '.tar.gz';
+files = [
 	'include/net/',
 	'lib/net/'
 ];
