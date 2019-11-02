@@ -1,0 +1,10 @@
+version = '1.63';
+url = '<url>';
+file = 'curl.' + version + '.tar.gz';
+install = [
+	'include/net/',
+	'lib/net/'
+];
+
+
+
